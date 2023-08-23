@@ -52,6 +52,7 @@ ul li:hover{
     padding: 3.5em 3em;
     align-items: center;
     margin-top: 0;
+    height: 100vh;
 }
 
 .hero-section-1{
